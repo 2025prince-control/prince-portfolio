@@ -12,6 +12,7 @@
   "dependencies": {
     "@fontsource/playfair-display": "^5.2.8",
     "@fontsource/poppins": "^5.2.7",
+    "@tailwindcss/vite": "^4.3.0",
     "framer-motion": "^12.40.0",
     "gsap": "^3.15.0",
     "lucide-react": "^1.16.0",
